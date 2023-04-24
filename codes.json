@@ -1,7 +1,7 @@
 {
 "0": "Unknown Error.",
 "1": "This transaction has been approved.",
-"2": "This transaction has been declined.",
+"2": "The card has insufficient funds.",
 "3": "This transaction has been declined.",
 "4": "This transaction has been declined.",
 "5": "A valid amount is required.",
